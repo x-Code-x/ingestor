@@ -1,4 +1,4 @@
-# ingestor
+# Ingestor
 Ingests the Organisation data from Google Sheets into json for the frontend
 
 ## Local Installation
